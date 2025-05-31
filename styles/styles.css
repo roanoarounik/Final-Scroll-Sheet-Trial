@@ -31,7 +31,7 @@ section {
     min-height: 700px;
 }
 
-.aSides {
+aside {
     display: grid;
     grid-template-rows: 35% 1fr;
     gap: 35px;
